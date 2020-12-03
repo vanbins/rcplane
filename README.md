@@ -1,5 +1,14 @@
 # rcplane
-Arduino + nrf24l01 based transmitter + receiver
+Arduino + nrf24l01 based transmitter + receiver for RC airplane
+
+Future plans:
+* Neater code
+* Accelerometer (something like MPU6050)
+* New/modified controller design to accomodate better joysticks
+* Custom made PCBs
+* Diffrent connectors (like JST XH) for some connections
+* Better documentation
+* Organized GitHub
 
 Software dependencies:
 * https://github.com/nRF24/RF24 version 1.3.7
